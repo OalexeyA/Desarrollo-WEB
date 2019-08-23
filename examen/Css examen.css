@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0; 
+   }
+   
+   #contenedor{
+    width: 1200px;
+    height: 1000px;
+    background: #D8D8D8;
+    margin: 0.5em auto;
+    padding: 0.5em;
+   }
+   #header{
+    height: 20%;
+    background: rgb(236, 63, 63);
+    border-radius: 1em;
+    margin: 1em;
+   }
+   #body{
+    height: 10%;
+    background: #a8e584;
+       border-radius: 1em;
+    margin: 1em;
+   }
+   #scrool{
+    height: 53%;
+    background: rgb(0, 0, 0); 
+   }
+   #footer{
+    height: 15%;
+    background: #ffffff;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(255, 4, 4);
+    border-radius: 1em;
+    margin: 1em;
+   }
+   #section {
+    height: 95%;
+    width: 71%;
+    background: rgb(70, 220, 240);
+       border-radius: 1em;
+    float: left;
+    margin: 0.5em;
+    }
+   #aside{
+      height: 100%;
+      width: 25%;
+      background: #A4A4A4;
+      border-radius: 1em;
+         float: right;
+         margin: 0.5em;
+     }
+   .articulo{
+     width: 90%;
+        height: 20%;
+        background: #424242;
+        margin: 1em;
+     border-radius: 1em;
+    }
