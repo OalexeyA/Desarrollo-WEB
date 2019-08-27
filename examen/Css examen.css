@@ -50,6 +50,33 @@
          float: right;
          margin: 0.5em;
      }
+
+    
+     #menu{
+      background-color: #000;
+     }
+    
+     #menu ul{
+      list-style: none;
+      margin: 0;
+      padding: 0;clip-path: 
+     }
+    
+     #menu ul li{
+      display: inline-block;
+     }
+    
+     #menu ul li a{
+      color: white;
+      display: block;
+      padding: 20px 20px;
+      text-decoration: none;
+     }
+    
+     #menu ul li a:hover{
+      background-color: #42B881;
+     }
+     
    .articulo{
      width: 90%;
         height: 20%;
